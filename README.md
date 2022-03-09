@@ -23,7 +23,10 @@ Participant - Competing in the event, regardless whether they submit or not
 Project Submitted - Given to participants who submit a viable project
 
 
-Example of live POAP - https://app.poap.xyz/token/4322085
+The designs have already passed POAP review
+
+
+Here is an example of a POAP I minted - https://app.poap.xyz/token/4322085
 
 
 
